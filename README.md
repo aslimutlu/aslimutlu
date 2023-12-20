@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Aslı</h1>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
 📄 Know about my experiences https://www.linkedin.com/in/asl%C4%B1-mutlu-9b6ab2166/ <br/>
-🌱 I’m currently learning **manual tests and automation testing** <br/>
+🌱 I’m currently learning manual tests and automation testing <br/>
   📝 I write articles on https://medium.com/@aslimutlu000
 
 <h4 align="left">Programming Languages:</h4>
