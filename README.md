@@ -1,9 +1,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-- 📄 Know about my experiences https://www.linkedin.com/in/asl%C4%B1-mutlu-9b6ab2166/
-- 🌱 I’m currently learning **manual tests and automation testing**
-- 📝 I write articles on https://medium.com/@aslimutlu000
+📄 Know about my experiences https://www.linkedin.com/in/asl%C4%B1-mutlu-9b6ab2166/ <br/>
+🌱 I’m currently learning **manual tests and automation testing** <br/>
+  📝 I write articles on https://medium.com/@aslimutlu000
 
 <h4 align="left">Programming Languages:</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
