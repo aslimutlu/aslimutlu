@@ -6,7 +6,7 @@
 📄 Know about my experiences https://www.linkedin.com/in/asl%C4%B1-mutlu-9b6ab2166/ <br/>
 🌱 I’m currently learning manual tests and automation testing <br/>
 📝 I write articles on https://medium.com/@aslimutlu000 <br/>
-📫 How to reach me <a href="mailto:aslimutlu000@gmail.com">aslimutlu000@gmail.com</a>
+📫 How to reach me <a href="mailto:aslimutlu099@gmail.com">aslimutlu099@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages:</h4>
