@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslı</h1>
-<h3 align="center">Software Test Engineer</h3>
+<h3 align="center">QA Tester</h3>
 
 
 <p align="left"> 
